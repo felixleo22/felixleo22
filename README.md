@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Léo and I'm a web developper from 🇫🇷
 
 - 🔭 I’m currently working on Node.js, NuxtJS, ElasticSearch and Kibana
-- 🌱 I’m currently learning GraphQL and Flutter 
+- 🌱 I’m currently learning GraphQL, Nest.js and Flutter 
 - 💬 Favourite quotation: "Bonjour c'est lui"
 
 ⚡ Fun fact: 
